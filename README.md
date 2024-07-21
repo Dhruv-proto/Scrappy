@@ -3,8 +3,11 @@ This is a web scrapper tool which is created using python. There is a wide range
 
 # How to use
 1) Copy the repo in your system
-2) Go to the destination folder of your pc where you copied the repo.
-3) Run the program using following command
+   ```
+   git copy <repo url>
+   ```
+3) Go to the destination folder of your pc where you copied the repo.
+4) Run the program using following command
    ```
    python scrappy.py
    ```
